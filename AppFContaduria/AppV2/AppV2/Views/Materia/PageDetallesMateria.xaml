@@ -1,0 +1,44 @@
+﻿<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="AppV2.Views.Materia.PageDetallesMateria"
+             Shell.NavBarIsVisible="False">
+
+    <Grid Style="{StaticResource MainStackLayoutStyle}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        
+        <Grid Grid.Row="0">
+            <Frame Style="{StaticResource FrameStyle}">
+                <StackLayout Style="{StaticResource InnerStackLayoutStyleOne}">
+                    <Label x:Name="LabelNombreMateria" Style="{StaticResource LabelNombreMateriaStyle}" />
+
+                    <ScrollView>
+                    <StackLayout Style="{StaticResource InnerStackLayoutStyle}">
+                        <Button Text="Contenido Programatico" Style="{StaticResource ButtonStyle}" Clicked="ContenidoProgramaticoButton_Clicked" />
+                        <Button Text="Bibliografía" Style="{StaticResource ButtonStyle}" Clicked="BibliografiaButton_Clicked" />
+                        <Button Text="Cibergrafía" Style="{StaticResource ButtonStyle}" Clicked="CibergrafiaButton_Clicked" />
+                        <Button Text="Evaluación" Style="{StaticResource ButtonStyle}" Clicked="EvaluacionButton_Clicked" />
+                        <Button Text="Calificación" Style="{StaticResource ButtonStyle}" Clicked="CalificacionButton_Clicked" />
+                    </StackLayout>
+                </ScrollView>
+                </StackLayout>
+            </Frame>
+        </Grid>
+        <!-- Menú de navegación inferior -->
+        <Grid Grid.Row="1" Style="{StaticResource MenuGridStyle}">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <ImageButton Style="{StaticResource MenuImageButtonStyle}" Grid.Column="0" Source="back.png" Clicked="OnAtrasClicked" />
+            <ImageButton Style="{StaticResource MenuImageButtonStyle}" Grid.Column="1" Source="home.png" Clicked="OnAtrasClicked" />
+            <ImageButton Style="{StaticResource MenuImageButtonStyle}" Grid.Column="2" Source="CerrarS2.png" Clicked="CerrarSesion" />
+        </Grid>
+    </Grid>
+</ContentPage>

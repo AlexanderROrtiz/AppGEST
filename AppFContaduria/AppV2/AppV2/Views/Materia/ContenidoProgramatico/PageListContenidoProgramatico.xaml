@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!-- PageListContenidoProgramatico.xaml -->
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppV2.Views.Materia.Tematica.PageListContenidoProgramatico"
+             Shell.NavBarIsVisible="False">
+
+    <Grid Style="{StaticResource MainStackLayoutStyle}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <StackLayout Style="{StaticResource InnerStackLayoutStyleOne}" Grid.Row="0">
+            <Label Style="{StaticResource TitleLabelStyle}" Grid.Row="1"/>
+
+
+            <ListView x:Name="ListSThematicView" Style="{StaticResource ListViewStyleCp}" Grid.Row="1" >
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout >
+                                <Frame Style="{StaticResource ListViewFrameStyleCp}">
+                                    <Label Style="{StaticResource ListViewLabelStyle}" Text="{Binding name}" />
+                                </Frame>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+        <!-- Menú de navegación inferior -->
+        <Grid Style="{StaticResource MenuGridStyle}" Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <ImageButton Style="{StaticResource MenuImageButtonStyle}" Grid.Column="0" Source="back.png"  Clicked="OnAtrasClicked" />
+            <ImageButton Style="{StaticResource MenuImageButtonStyle}" Grid.Column="1" Source="home.png"  Clicked="OnInicioClicked" />
+            <ImageButton Style="{StaticResource MenuImageButtonStyle}" Grid.Column="2" Source="CerrarS2.png" Clicked="CerrarSesion" />
+        </Grid>
+    </Grid>
+</ContentPage>

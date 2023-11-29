@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppV2.Views.Profesores.PageListProfesores">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Example Item"
+                 IconImageSource="CerrarS.png"
+                 Order="Primary"
+                 Clicked="BtnCerrarS"
+                 Priority="0" />
+    </ContentPage.ToolbarItems>
+    <StackLayout Padding="10">
+        <ContentView x:Name="Contentprofesor" AbsoluteLayout.LayoutFlags="All">
+            <StackLayout>
+                <StackLayout Padding="5" BackgroundColor="#ffffff">
+                    <Label TextColor="#0070B8" VerticalOptions="Center" HorizontalOptions="Center">Lista de profesores</Label>
+                </StackLayout>
+
+                <ListView x:Name="ListViewProfesor" ItemsSource="{Binding oListaProfesor}" HasUnevenRows="True" IsPullToRefreshEnabled="True"  >
+
+
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <Grid HorizontalOptions="FillAndExpand" VerticalOptions="Start" HeightRequest="110" RowSpacing="5">
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="3*"/>
+                                        <ColumnDefinition Width="7*"/>
+                                    </Grid.ColumnDefinitions>
+                                    <!--<Image Grid.Column="0" Source="store.png" Aspect="Fill" HorizontalOptions="FillAndExpand" VerticalOptions="Center" HeightRequest="100" WidthRequest="100"></Image>
+                                    -->
+                                    <StackLayout Grid.Column="1" Orientation="Vertical" VerticalOptions="Center" >
+                                        <Label Text="{Binding nombre}" Margin="2" FontSize="15" FontAttributes="Bold" TextColor="#0070B8"/>
+                                        <Label Text="{Binding materia}" Margin="2" FontSize="12" TextColor="Black"/>
+
+                                    </StackLayout>
+                                </Grid>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+
+                <Button Grid.Row="0" 
+                        Text="Agregar Profesores" 
+                        BorderColor="#2b3c3c" BorderWidth="1" 
+                        FontAttributes="Bold" BackgroundColor="#0070B8" 
+                        BorderRadius="35" TextColor="White" 
+                        HorizontalOptions="End" WidthRequest="210" 
+                        HeightRequest="70" Margin="0,0,20,22" 
+                        VerticalOptions="End" 
+                        Clicked="BtnpantallaCrearProfesor_Clicked"
+                        />
+
+
+            </StackLayout>
+
+        </ContentView>
+
+    </StackLayout>
+
+
+</ContentPage>

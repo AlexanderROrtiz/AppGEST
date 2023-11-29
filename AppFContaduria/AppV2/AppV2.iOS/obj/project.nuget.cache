@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9CCze9zEM2/Z+bapv7YO67nGfI9hqJcLZsL2R4IUOFlcdc2RAGJI0ZsJlwkv93xaxTKGRwPMKym2luGkX0j+gQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CAMILA\\source\\repos\\AppFContaduria\\AppFContaduria\\AppV2\\AppV2.iOS\\AppV2.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CAMILA\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\CAMILA\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\CAMILA\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

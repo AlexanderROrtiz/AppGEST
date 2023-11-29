@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<pages:PopupPage
+    x:Class="AppV2.Views.Cursos.PopTaskCursoView"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:animations="clr-namespace:Rg.Plugins.Popup.Animations;assembly=Rg.Plugins.Popup"
+    xmlns:pages="clr-namespace:Rg.Plugins.Popup.Pages;assembly=Rg.Plugins.Popup">
+    <pages:PopupPage.Animation>
+        <animations:ScaleAnimation
+            DurationIn="400"
+            DurationOut="300"
+            EasingIn="SinOut"
+            EasingOut="SinIn"
+            HasBackgroundAnimation="True"
+            PositionIn="Center"
+            PositionOut="Center"
+            ScaleIn="1.2"
+            ScaleOut="0.8" />
+    </pages:PopupPage.Animation>
+    <StackLayout
+        Margin="12"
+        Padding="24"
+        BackgroundColor="WhiteSmoke"
+        HorizontalOptions="Center"
+        VerticalOptions="Center">
+        <StackLayout Margin="0, 25, 0, 0">
+            <Frame BackgroundColor="White" BorderColor="DarkGray" Padding="0" Margin="0" CornerRadius="50" HorizontalOptions="FillAndExpand">
+                <StackLayout Orientation="Horizontal">
+                    
+
+                    <Entry Placeholder="Nombre del curso" 
+                                           x:Name="txtNombreCurso"
+                                           TextColor="Black" 
+                                           PlaceholderColor="Gray"
+                                           HorizontalOptions="FillAndExpand" 
+                                           Margin="0, 0, 15, 0"></Entry>
+                </StackLayout>
+            </Frame>
+            <Frame BackgroundColor="White" BorderColor="DarkGray" Padding="0" Margin="0,15,0,0" CornerRadius="50" HorizontalOptions="FillAndExpand">
+                <StackLayout Orientation="Horizontal">
+                   
+                    <Entry Placeholder="Descripción" 
+                                           x:Name="txtDesc" 
+                                           TextColor="Black" 
+                                           PlaceholderColor="Gray"
+                                           HorizontalOptions="FillAndExpand" 
+                                           Margin="0, 0, 15, 0"></Entry>
+                </StackLayout>
+            </Frame>
+
+
+        </StackLayout>
+
+        <Button
+            x:Name="TaskButton"
+            BackgroundColor="#0070B8"
+            CornerRadius="10"
+            FontSize="Large"
+            Clicked="BtnCrearCurso"
+            Text="Agregar."
+            TextColor="White" />
+    </StackLayout>
+</pages:PopupPage>
