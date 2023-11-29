@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppV2.Views.Materia.Tematica.PageDetallesCibergrafia">
+    <Grid Style="{StaticResource MainStackLayoutStyle}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <!-- Encabezado -->
+        <StackLayout Style="{StaticResource HeaderStackLayoutStyleBl}" Margin="0, 80, 0, 20" Grid.Row="0">
+            <Label Style="{StaticResource CibergraphyHeaderLabelStyle}" />
+        </StackLayout>
+
+        <!-- Lista de Cibergrafía -->
+        <ListView x:Name="cibergraphyListView" Style="{StaticResource CibergraphyListViewStyle}" Grid.Row="1">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout >
+                            <Frame Style="{StaticResource CibergraphyItemFrameStyle}">
+                                <Label Style="{StaticResource CibergraphyItemLabelStyle}" Text="{Binding title_Cybergraphy}" />
+                            </Frame>
+                            <!-- Etiquetas adicionales -->
+                            <Label Style="{StaticResource CibergraphyAdditionalLabelStyle}" Text="{Binding author_Cibergrafia}" />
+                            <Label Style="{StaticResource CibergraphyAdditionalLabelStyle}" Text="{Binding date_Cybergraphy, StringFormat='{0:yyyy-MM-dd}'}" />
+                            <Label Style="{StaticResource CibergraphyAdditionalLabelStyle}" Text="{Binding Url_Cybergraphy}" >
+                                <Label.GestureRecognizers>
+                                    <TapGestureRecognizer Tapped="UrlLabelTapped" CommandParameter="{Binding Url}" />
+                                </Label.GestureRecognizers>
+                            </Label>
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+        <!-- Menú de navegación inferior -->
+        <Grid Style="{StaticResource MenuGridStyle}" Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <ImageButton Style="{StaticResource MenuImageButtonStyle}" Grid.Column="0" Source="back.png"  Clicked="OnAtrasClicked" />
+            <ImageButton Style="{StaticResource MenuImageButtonStyle}" Grid.Column="1" Source="home.png"  Clicked="OnInicioClicked" />
+            <ImageButton Style="{StaticResource MenuImageButtonStyle}" Grid.Column="2" Source="CerrarS2.png" Clicked="CerrarSesion" />
+        </Grid>
+    </Grid>
+</ContentPage>

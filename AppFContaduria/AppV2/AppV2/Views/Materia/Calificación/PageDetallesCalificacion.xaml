@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:fRating="clr-namespace:Rating;assembly=Rating"
+             x:Class="AppV2.Views.Materia.Tematica.PageDetallesCalificacion">
+    <Grid Style="{StaticResource MainStackLayoutStyle}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <!-- Encabezado -->
+        <ScrollView Grid.Row="1">
+        <StackLayout Margin="0, 50, 0, 0" Grid.Row="0">
+            <!-- Encabezado -->
+            <Label Style="{StaticResource EncuestaAprendizajeHeaderLabelStyle}" Text="Encuesta de aprendizaje" />
+
+            <!-- Pregunta -->
+            <Label Style="{StaticResource PreguntaLabelStyle}" Text="Como calificaría la clase de hoy" />
+
+            <!-- Rating Bar -->
+            <fRating:RatingBar 
+                            x:Name="ratingbarFron" 
+                            HorizontalOptions="Center" 
+                            ImageWidth="55" ImageHeight="55" 
+                            FlowDirection="LeftToRight" 
+                            EmptyStarImage="star_empty" FillStarImage="star_filled" 
+                            SelectedStarValue="3" >
+            </fRating:RatingBar>
+
+            <!-- Comentario -->
+            <Label Style="{StaticResource ComentarioLabelStyle}" Text="Comentario o recomendación" />
+        
+
+         
+                <!-- Frame para Comentario -->
+        <Frame Style="{StaticResource ComentarioFrameStyle}">
+                <!-- Editor para Comentario -->
+                <Editor Style="{StaticResource EditorComentarioStyle}" x:Name="EditorComentario" />
+        </Frame>
+
+            <!-- Botón Guardar -->
+        <Button Style="{StaticResource GuardarButtonStyle}" Clicked="BtnGuardarCalificacion" />
+        </StackLayout>
+        </ScrollView >
+                    <!-- Menú de navegación inferior -->
+        <Grid Style="{StaticResource MenuGridStyle}" Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <ImageButton Style="{StaticResource MenuImageButtonStyle}" Grid.Column="0" Source="back.png"  Clicked="OnAtrasClicked" />
+            <ImageButton Style="{StaticResource MenuImageButtonStyle}" Grid.Column="1" Source="home.png"  Clicked="OnInicioClicked" />
+            <ImageButton Style="{StaticResource MenuImageButtonStyle}" Grid.Column="2" Source="CerrarS2.png" Clicked="CerrarSesion" />
+        </Grid>
+    </Grid>
+</ContentPage>

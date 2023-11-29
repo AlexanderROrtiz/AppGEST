@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design" 
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             mc:Ignorable="d" x:Class="AppV2.Views.PageLogin" Shell.NavBarIsVisible="False">
+    <Grid Style="{StaticResource BaseFrameStyle}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <Image Grid.Row="1" Style="{StaticResource BaseImageStyle}"/>
+
+        <StackLayout Grid.Row="2">
+            <Frame Style="{StaticResource BaseFrameStyleLp}" Margin="0, 5, 0, 0">
+            <StackLayout Orientation="Horizontal">
+                    <Frame CornerRadius="50" HeightRequest="40" WidthRequest="40" Padding="0" HorizontalOptions="Start" Margin="7">
+                        <Image Source="user.png" Aspect="Fill" Margin="0"/>
+                    </Frame>
+                    <Entry Style="{StaticResource BaseEntryStyle}" Placeholder="Usuario" x:Name="txtEmail" Margin="0, 0, 0, 0"/>
+                </StackLayout>
+            </Frame>
+        </StackLayout>
+
+        <StackLayout Grid.Row="3">
+            <Frame Style="{StaticResource BaseFrameStyleLp}" Margin="0, 5, 0, 0">
+                <StackLayout Orientation="Horizontal">
+                    <Frame CornerRadius="50" HeightRequest="40" WidthRequest="40" Padding="0" HorizontalOptions="Start" Margin="7">
+                        <Image Source="pass.png" Aspect="Fill" Margin="0"/>
+                    </Frame>
+                    <Entry Style="{StaticResource BaseEntryStyle}" Placeholder="Contraseña" x:Name="txtContrasena" IsPassword="True" Margin="0, 0, 0, 0"/>
+                </StackLayout>
+            </Frame>
+        </StackLayout>
+
+        <StackLayout Grid.Row="4" HorizontalOptions="Center" Margin="0, 15, 0, 0">
+            <Button Text="Iniciar sesión" Clicked="btnIniciarSesion_Clicked" Style="{StaticResource BaseButtonStyle}" />
+        </StackLayout>
+
+        <StackLayout Grid.Row="5" Orientation="Horizontal" HorizontalOptions="Center" >
+            <CheckBox x:Name="keepSessionCheckBox" IsChecked="false" Style="{StaticResource BaseCheckBoxStyle}" CheckedChanged="mantenerSesionIniciada" />
+            <Label Text="Mantener sesión iniciada." Style="{StaticResource BaseLabelStyle1}"/>
+        </StackLayout>
+
+        <StackLayout Grid.Row="6" Orientation="Horizontal" HorizontalOptions="Center" >
+            <Label Text="¿Olvidaste la contraseña?" Style="{StaticResource BaseLabelStyle1}">
+                <Label.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="recuperarContraseña" />
+                </Label.GestureRecognizers>
+            </Label>
+        </StackLayout>
+    </Grid>
+</ContentPage>

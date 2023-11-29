@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="AppFContaduria.Views.LoginPage"
+             Shell.NavBarIsVisible="False">
+    <StackLayout Padding="0">
+        <Grid>
+            <StackLayout Padding="0" Margin="0">
+                <Frame HeightRequest="150" HorizontalOptions="FillAndExpand" Padding="0">
+                    <Image Source="fup40.png" Aspect="Fill" Margin="0"/>
+                </Frame>
+            </StackLayout>
+            <StackLayout Margin="15, 110, 15, 0">
+                <Frame BackgroundColor="White" HasShadow="True" HeightRequest="480" HorizontalOptions="FillAndExpand">
+                    <StackLayout>
+                        <StackLayout HorizontalOptions="CenterAndExpand">
+                            <Label Text="Iniciar sesión" FontSize="Medium" FontAttributes="Bold"></Label>
+                        </StackLayout>
+
+                        <StackLayout Margin="0, 25, 0, 0">
+                            <Frame BackgroundColor="White" BorderColor="DarkGray" Padding="0" Margin="0" CornerRadius="50" HorizontalOptions="FillAndExpand">
+                                <StackLayout Orientation="Horizontal">
+                                    <Frame CornerRadius="50" HeightRequest="35" WidthRequest="35" Padding="0" HorizontalOptions="Start" Margin="7">
+                                        <Image Source="usuario.png"/>
+
+                                    </Frame>
+                                    <Entry Placeholder="Email" 
+                                           x:Name="EmailInput"
+                                           TextColor="Black" 
+                                           HorizontalOptions="FillAndExpand" 
+                                           Margin="0, 0, 15, 0"></Entry>
+                                </StackLayout>
+                            </Frame>
+                            <Frame BackgroundColor="White" BorderColor="DarkGray" Padding="0" Margin="0,15,0,0" CornerRadius="50" HorizontalOptions="FillAndExpand">
+                                <StackLayout Orientation="Horizontal">
+                                    <Frame CornerRadius="50" HeightRequest="35" WidthRequest="35" Padding="0" HorizontalOptions="Start" Margin="7">
+                                        <Image Source="cerrar.png" Aspect="Fill" Margin="0"/>
+                                    </Frame>
+                                    <Entry Placeholder="Password" 
+                                           x:Name="PasswordInput"
+                                           
+                                           IsPassword="True" 
+                                           TextColor="Black" 
+                                           HorizontalOptions="FillAndExpand" 
+                                           Margin="0, 0, 15, 0"></Entry>
+                                </StackLayout>
+                            </Frame>
+                        </StackLayout>
+                        <StackLayout Orientation="Horizontal">
+                            <CheckBox IsChecked="false" Color="#0070B8"/>
+                            <Label Text="Recordar" HorizontalTextAlignment="Start" VerticalTextAlignment="Center" TextColor="#0070B8"/>
+
+                            <Label Text="¿Olvidó su password?" HorizontalTextAlignment="End" TextColor="#0070B8" HorizontalOptions="EndAndExpand" FontAttributes="Bold" VerticalTextAlignment="Center"/>
+
+                        </StackLayout>
+                        <Button Text="Ingresar" BackgroundColor="#0070B8" TextColor="White" FontAttributes="Bold" CornerRadius="20"  Command="{Binding LoginCommand}"/>
+                        <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+                            <Label Text="¿Todavia no te conectas?" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" TextColor="#0070B8"/>
+
+                            <Label Text="Regístrate" HorizontalTextAlignment="Center" TextColor="#0070B8" FontAttributes="Bold" VerticalTextAlignment="Center"/>
+                        </StackLayout>
+                        
+                    </StackLayout>
+                </Frame>
+            </StackLayout>
+        </Grid>
+    </StackLayout>
+
+   
+</ContentPage>

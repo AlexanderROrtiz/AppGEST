@@ -1,0 +1,529 @@
+﻿<!-- App.xaml -->
+<Application xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppV2.App">
+    <Application.Resources>
+        <ResourceDictionary>            
+            <!-- *************************************************** Inicio Estilos para Menú ********************************* -->
+            <!-- Estilo para el Grid del menú -->
+            <Style x:Key="MenuGridStyle" TargetType="Grid">
+                <!-- Definiciones de estilo para el Grid -->
+                <Setter Property="Row" Value="0" />
+                <Setter Property="BackgroundColor" Value="#26B5A1" />
+                <Setter Property="VerticalOptions" Value="End" />
+                <Setter Property="HeightRequest" Value="35" />
+                <!-- Agrega más propiedades según sea necesario -->
+            </Style>
+
+            <!-- Estilo para el ImageButton del menú -->
+            <Style x:Key="MenuImageButtonStyle" TargetType="ImageButton">
+                <!-- Definiciones de estilo para el ImageButton -->
+                <Setter Property="BackgroundColor" Value="#26B5A1" />
+                <Setter Property="Aspect" Value="AspectFit" />
+                <!-- Agrega más propiedades según sea necesario -->
+            </Style>
+            <!-- *************************************************** Fin Estilos para Menú ********************************* -->
+
+            <!-- *************************************************** Inicio Estilos para PageLogin ********************************* -->
+
+            <!-- Estilos generales -->
+
+            <Style x:Key="BaseFrameStyle" TargetType="Frame">
+                <Setter Property="BackgroundColor" Value="#005790" />
+                <Setter Property="HasShadow" Value="True" />
+                <Setter Property="HeightRequest" Value="880" />
+                <Setter Property="HorizontalOptions" Value="FillAndExpand" />
+                <Setter Property="Padding" Value="20" />
+            </Style>
+
+            <Style x:Key="BaseImageStyle" TargetType="Image">
+                <Setter Property="Source" Value="LogoF.png" />
+                <Setter Property="WidthRequest" Value="115" />
+                <Setter Property="HeightRequest" Value="130" />
+                <Setter Property="Aspect" Value="AspectFit" />
+                <Setter Property="Margin" Value="27" />
+                <Setter Property="HorizontalOptions" Value="Center" />
+                <Setter Property="VerticalOptions" Value="Center" />
+            </Style>
+
+            <Style x:Key="BaseFrameStyleLp" TargetType="Frame">
+                <Setter Property="BackgroundColor" Value="#1A5276" />
+                <Setter Property="BorderColor" Value="#FDFEFE" />
+                <Setter Property="HeightRequest" Value="65" />
+                <Setter Property="WidthRequest" Value="35" />
+                <Setter Property="Padding" Value="1" />
+                <Setter Property="CornerRadius" Value="20" />
+            </Style>
+
+            <Style x:Key="BaseEntryStyle" TargetType="Entry">
+                <Setter Property="TextColor" Value="#FDFEFE" />
+                <Setter Property="PlaceholderColor" Value="#FDFEFE" />
+                <Setter Property="HorizontalOptions" Value="FillAndExpand" />
+            </Style>
+
+            <Style x:Key="BaseButtonStyle" TargetType="Button">
+                <Setter Property="BackgroundColor" Value="#FF9C33" />
+                <Setter Property="TextColor" Value="White" />
+                <Setter Property="FontAttributes" Value="Bold" />
+                <Setter Property="CornerRadius" Value="20" />
+                <Setter Property="WidthRequest" Value="250" />
+                <Setter Property="HeightRequest" Value="46" />
+                <Setter Property="FontSize" Value="18" />
+                <Setter Property="TextTransform" Value="None" />
+            </Style>
+
+            <Style x:Key="BaseCheckBoxStyle" TargetType="CheckBox">
+                <Setter Property="Color" Value="#FDFEFE" />
+            </Style>
+
+            <Style x:Key="BaseLabelStyle1" TargetType="Label">
+                <Setter Property="TextColor" Value="#FDFEFE" />
+                <Setter Property="HorizontalTextAlignment" Value="Center" />
+                <Setter Property="VerticalTextAlignment" Value="Center" />
+            </Style>
+            <!-- *************************************************** Fin Estilos para PageLogin ********************************* -->
+
+            <!-- *************************************************** Inicio Estilos para PageListMaterias ********************************* -->
+            <!-- Estilo para el StackLayout del encabezado -->
+            <Style x:Key="HeaderStackLayoutStyle" TargetType="StackLayout">
+                <Setter Property="BackgroundColor" Value="#005790" />
+            </Style>
+
+            <!-- Estilo para la imagen del encabezado -->
+            <Style x:Key="HeaderImageStyle" TargetType="Image">
+                <Setter Property="Source" Value="LogoF.png" />
+                <Setter Property="WidthRequest" Value="95" />
+                <Setter Property="HeightRequest" Value="90" />
+                <Setter Property="Aspect" Value="AspectFit" />
+                <Setter Property="Margin" Value="47" />
+                <Setter Property="HorizontalOptions" Value="Center" />
+                <Setter Property="VerticalOptions" Value="Center" />
+            </Style>
+
+            <!-- Estilo para la etiqueta "Hola estudiante" -->
+            <Style x:Key="HelloStudentLabelStyle" TargetType="Label">
+                <Setter Property="Text" Value="Hola estudiante" />
+                <Setter Property="FontSize" Value="36" />
+                <Setter Property="TextColor" Value="White" />
+                <Setter Property="HorizontalOptions" Value="Center" />
+                <Setter Property="VerticalOptions" Value="Center" />
+                <Setter Property="FontAttributes" Value="Bold" />
+            </Style>
+
+            <!-- Estilo para la etiqueta "Listado de Materias" -->
+            <Style x:Key="SubjectListLabelStyle" TargetType="Label">
+                <Setter Property="Text" Value="Listado de Materias" />
+                <Setter Property="FontSize" Value="Title" />
+                <Setter Property="TextColor" Value="White" />
+                <Setter Property="HorizontalOptions" Value="Center" />
+                <Setter Property="VerticalOptions" Value="Center" />
+            </Style>
+
+            <!-- Estilo para el ListView -->
+            <Style x:Key="ListViewStyle" TargetType="ListView">
+                <!-- Agrega más definiciones de estilo según sea necesario -->
+                <Setter Property="Margin" Value="20, 10, 20, 40" />
+                <Setter Property="RowHeight" Value="100" />
+            </Style>
+
+            <!-- Estilo para el Frame dentro de ListView -->
+            <Style x:Key="ListViewFrameStyle" TargetType="Frame">
+                <Setter Property="BackgroundColor" Value="#26B5A1" />
+                <Setter Property="Padding" Value="4" />
+                <Setter Property="CornerRadius" Value="5" />
+                <!-- Agrega más propiedades según sea necesario -->
+            </Style>
+
+            <!-- Estilo para el Label dentro de Frame dentro de ListView -->
+            <Style x:Key="ListViewLabelInFrameStyle" TargetType="Label">
+                <Setter Property="FontAttributes" Value="Bold" />
+                <Setter Property="FontSize" Value="17" />
+                <Setter Property="TextColor" Value="White" />
+                <Setter Property="HorizontalOptions" Value="Center" />
+                <!-- Agrega más propiedades según sea necesario -->
+            </Style>
+
+            <!-- Estilo para el Label fuera de Frame dentro de ListView -->
+            <Style x:Key="ListViewLabelOutsideFrameStyle" TargetType="Label">
+                <Setter Property="FontSize" Value="16" />
+                <Setter Property="TextColor" Value="White" />
+                <Setter Property="Margin" Value="15, 5, 0, 5" />
+                <!-- Agrega más propiedades según sea necesario -->
+            </Style>
+            <!-- *************************************************** Fin Estilos para PageListMaterias ********************************* -->
+
+            <!-- *************************************************** Inicio Estilos para PageDetallesMateria ********************************* -->
+            <!-- Estilo para el StackLayout principal de la página -->
+            <Style x:Key="MainStackLayoutStyle" TargetType="StackLayout">
+                <Setter Property="BackgroundColor" Value="#154360" />
+                <!-- Agrega más propiedades según sea necesario -->
+            </Style>
+
+            <Style x:Key="BaseFrameStyle2" TargetType="Frame">
+                <Setter Property="BackgroundColor" Value="#005790" />
+                <Setter Property="HasShadow" Value="True" />
+                <Setter Property="HeightRequest" Value="880" />
+                <Setter Property="HorizontalOptions" Value="FillAndExpand" />
+                <Setter Property="Padding" Value="20" />
+            </Style>
+
+            <!-- Estilo para el Frame de la página -->
+            <Style x:Key="FrameStyle" TargetType="Frame">
+                <Setter Property="BackgroundColor" Value="#154360" />
+                <Setter Property="HasShadow" Value="True" />
+                <Setter Property="HeightRequest" Value="880" />
+                <Setter Property="HorizontalOptions" Value="FillAndExpand" />
+                <!-- Agrega más propiedades según sea necesario -->
+            </Style>
+
+            <!-- Estilo para el StackLayout fuera del Frame -->
+            <Style x:Key="InnerStackLayoutStyleOne" TargetType="StackLayout">
+                <Setter Property="Margin" Value="0, 70, 0, 0" />
+                <!-- Agrega más propiedades según sea necesario -->
+            </Style>
+
+            <!-- Estilo para el StackLayout dentro del Frame -->
+            <Style x:Key="InnerStackLayoutStyle" TargetType="StackLayout">
+                <Setter Property="Margin" Value="0, 90, 0, 0" />
+                <Setter Property="HorizontalOptions" Value="Center" />
+                <!-- Agrega más propiedades según sea necesario -->
+            </Style>
+
+            <!-- Estilo para la etiqueta de nombre de materia -->
+            <Style x:Key="LabelNombreMateriaStyle" TargetType="Label">
+                <Setter Property="TextColor" Value="White" />
+                <Setter Property="FontSize" Value="29" />
+                <Setter Property="HorizontalOptions" Value="Center" />
+                <Setter Property="VerticalOptions" Value="Center" />
+                <Setter Property="FontAttributes" Value="Bold" />
+                <!-- Agrega más propiedades según sea necesario -->
+            </Style>
+
+            <!-- Estilo para los botones -->
+            <Style x:Key="ButtonStyle" TargetType="Button">
+                <Setter Property="Margin" Value="0, 0, 0, 20" />
+                <Setter Property="BackgroundColor" Value="#26B5A1" />
+                <Setter Property="TextColor" Value="White" />
+                <Setter Property="CornerRadius" Value="10" />
+                <Setter Property="WidthRequest" Value="375" />
+                <Setter Property="HeightRequest" Value="53" />
+                <Setter Property="FontSize" Value="23" />
+                <Setter Property="TextTransform" Value="None" />
+                <!-- Agrega más propiedades según sea necesario -->
+            </Style>
+            <!-- *************************************************** Fin Estilos para PageDetallesMateria ********************************* -->
+
+            <!-- *************************************************** Inicio Estilos para PageListContenidoProgramatico ********************************* -->
+
+            <!-- Estilo para la etiqueta de título -->
+            <Style x:Key="TitleLabelStyle" TargetType="Label">
+                <Setter Property="Text" Value="Contenido Programatico" />
+                <Setter Property="FontSize" Value="30" />
+                <Setter Property="TextColor" Value="White" />
+                <Setter Property="HorizontalOptions" Value="Center" />
+                <Setter Property="VerticalOptions" Value="Center" />
+                <Setter Property="FontAttributes" Value="Bold" />
+                <!-- Agrega más propiedades según sea necesario -->
+            </Style>
+
+            <!-- Estilo para la ListView -->
+            <Style x:Key="ListViewStyleCp" TargetType="ListView">
+                <Setter Property="Margin" Value="0, 40, 0, 0" />
+                <Setter Property="RowHeight" Value="85" />
+                <!-- Agrega más propiedades según sea necesario -->
+            </Style>
+
+            <!-- Estilo para el Frame dentro de la ListView -->
+            <Style x:Key="ListViewFrameStyleCp" TargetType="Frame">
+                <Setter Property="Margin" Value="20, 0, 20, 0" />
+                <Setter Property="BackgroundColor" Value="#26B5A1" />
+                <Setter Property="CornerRadius" Value="5" />
+                <Setter Property="Padding" Value="6" />
+                <!-- Agrega más propiedades según sea necesario -->
+            </Style>
+
+            <!-- Estilo para la etiqueta dentro del Frame de la ListView -->
+            <Style x:Key="ListViewLabelStyle" TargetType="Label">
+                <Setter Property="FontAttributes" Value="Bold" />
+                <Setter Property="TextColor" Value="White" />
+                <Setter Property="HorizontalOptions" Value="CenterAndExpand" />
+                <Setter Property="VerticalOptions" Value="CenterAndExpand" />
+                <!-- Agrega más propiedades según sea necesario -->
+            </Style>
+            <!-- *************************************************** Fin Estilos para PageListContenidoProgramatico ********************************* -->
+
+            <!-- *************************************************** Inicio Estilos para PageDetallesContenidoProgramatico ********************************* -->
+            <!-- Estilo para el StackLayout del encabezado -->
+            <Style x:Key="HeaderStackLayoutStyleDp" TargetType="StackLayout">
+                <Setter Property="Margin" Value="20, 40, 0, 0" />
+                <!-- Agrega más propiedades según sea necesario -->
+            </Style>
+
+            <!-- Estilo para la etiqueta del encabezado -->
+            <Style x:Key="HeaderLabelStyle" TargetType="Label">
+                <Setter Property="TextColor" Value="White" />
+                <Setter Property="FontSize" Value="28" />
+                <Setter Property="HorizontalOptions" Value="Center" />
+                <Setter Property="VerticalOptions" Value="Center" />
+                <Setter Property="FontAttributes" Value="Bold" />
+                <!-- Agrega más propiedades según sea necesario -->
+            </Style>
+
+            <!-- Estilo para el StackLayout del contenido -->
+            <Style x:Key="ContentStackLayoutStyle" TargetType="StackLayout">
+                <Setter Property="Margin" Value="10, 28, 10, 0" />
+                <!-- Agrega más propiedades según sea necesario -->
+            </Style>
+
+            <!-- Estilo para el Frame del contenido -->
+            <Style x:Key="ContentFrameStyle" TargetType="Frame">
+                <Setter Property="BackgroundColor" Value="#8126B5A1" />
+                <Setter Property="CornerRadius" Value="5" />
+                <Setter Property="WidthRequest" Value="550" />
+                <Setter Property="HeightRequest" Value="765" />
+                <Setter Property="HorizontalOptions" Value="Center" />
+                <Setter Property="VerticalOptions" Value="Center" />
+                <!-- Agrega más propiedades según sea necesario -->
+            </Style>
+
+            <!-- Estilo para el ScrollView dentro del Frame -->
+            <Style x:Key="ContentScrollViewStyle" TargetType="ScrollView">
+                <!-- Agrega más propiedades según sea necesario -->
+            </Style>
+
+            <!-- Estilo para la etiqueta dentro del ScrollView -->
+            <Style x:Key="ContentLabelStyle" TargetType="Label">
+                <Setter Property="TextColor" Value="White" />
+                <Setter Property="FontSize" Value="30" />
+                <Setter Property="HorizontalOptions" Value="Center" />
+                <Setter Property="VerticalOptions" Value="Center" />
+                <!-- Agrega más propiedades según sea necesario -->
+            </Style>
+            <!-- *************************************************** Fin Estilos para PageDetallesContenidoProgramatico ********************************* -->
+
+            <!-- *************************************************** Inicio Estilos para PageDetallesBibliografia ********************************* -->
+            <!-- Estilo para el Frame del encabezado -->
+            <Style x:Key="HeaderFrameStyle" TargetType="Frame">
+                <Setter Property="BackgroundColor" Value="#154360" />
+                <Setter Property="HeightRequest" Value="60" />
+                <!-- Agrega más propiedades según sea necesario -->
+            </Style>
+
+            <!-- Estilo para el StackLayout del encabezado -->
+            <Style x:Key="HeaderStackLayoutStyleBl" TargetType="StackLayout">
+                <Setter Property="Margin" Value="0, 50, 0, 0" />
+                <!-- Agrega más propiedades según sea necesario -->
+            </Style>
+
+            <!-- Estilo para la etiqueta del encabezado -->
+            <Style x:Key="HeaderLabelStyleBl" TargetType="Label">
+                <Setter Property="BackgroundColor" Value="#154360" />
+                <Setter Property="Text" Value="Bibliografía" />
+                <Setter Property="FontSize" Value="40" />
+                <Setter Property="TextColor" Value="White" />
+                <Setter Property="HorizontalOptions" Value="Center" />
+                <Setter Property="VerticalOptions" Value="Center" />
+                <Setter Property="FontAttributes" Value="Bold" />
+                <!-- Agrega más propiedades según sea necesario -->
+            </Style>
+
+            <!-- Estilo para el ListView -->
+            <Style x:Key="BibliographyListViewStyle" TargetType="ListView">
+                <Setter Property="Margin" Value="15, 10, 15, 0" />
+                <Setter Property="RowHeight" Value="195" />
+                <Setter Property="SelectedItem" Value="{x:Null}" />
+                <Setter Property="SelectionMode" Value="None" />
+                <!-- Agrega más propiedades según sea necesario -->
+            </Style>
+
+            <!-- Estilo para el Frame dentro del ListView -->
+            <Style x:Key="BibliographyFrameStyle" TargetType="Frame">
+                <Setter Property="Margin" Value="10, 0, 10, 0" />
+                <Setter Property="BackgroundColor" Value="#26B5A1" />
+                <Setter Property="CornerRadius" Value="5" />
+                <Setter Property="Padding" Value="2" />
+                <!-- Agrega más propiedades según sea necesario -->
+            </Style>
+
+            <!-- Estilo para la etiqueta dentro del Frame -->
+            <Style x:Key="BibliographyLabelStyle" TargetType="Label">
+                <Setter Property="Text" Value="{Binding title}" />
+                <Setter Property="FontAttributes" Value="Bold" />
+                <Setter Property="TextColor" Value="White" />
+                <Setter Property="HorizontalOptions" Value="CenterAndExpand" />
+                <Setter Property="VerticalOptions" Value="CenterAndExpand" />
+                <!-- Agrega más propiedades según sea necesario -->
+            </Style>
+
+            <!-- Estilo para las etiquetas adicionales -->
+            <Style x:Key="AdditionalLabelStyle" TargetType="Label">
+                <Setter Property="Margin" Value="10, 0, 0, 5" />
+                <Setter Property="TextColor" Value="White" />
+                <!-- Agrega más propiedades según sea necesario -->
+            </Style>
+
+            <!-- *************************************************** Fin Estilos para PageDetallesBibliografia ********************************* -->
+
+            <!-- *************************************************** Inicio Estilos para PageDetallesCibergrafia ********************************* -->
+            <!-- Estilo para el StackLayout del encabezado -->
+            <Style x:Key="CibergraphyHeaderStackLayoutStyle" TargetType="StackLayout">
+                <Setter Property="BackgroundColor" Value="#154360" />
+            </Style>
+
+            <!-- Estilo para el Frame del encabezado -->
+            <Style x:Key="CibergraphyHeaderFrameStyle" TargetType="Frame">
+                <Setter Property="BackgroundColor" Value="White" />
+                <Setter Property="HasShadow" Value="True" />
+                <Setter Property="HeightRequest" Value="880" />
+                <Setter Property="HorizontalOptions" Value="FillAndExpand" />
+            </Style>
+
+            <!-- Estilo para la etiqueta del encabezado -->
+            <Style x:Key="CibergraphyHeaderLabelStyle" TargetType="Label">
+                <Setter Property="Text" Value="Cibergrafía" />
+                <Setter Property="FontSize" Value="40" />
+                <Setter Property="TextColor" Value="White" />
+                <Setter Property="HorizontalOptions" Value="Center" />
+                <Setter Property="VerticalOptions" Value="Center" />
+                <Setter Property="FontAttributes" Value="Bold" />
+            </Style>
+
+            <!-- Estilo para el ListView -->
+            <Style x:Key="CibergraphyListViewStyle" TargetType="ListView">
+                <Setter Property="Margin" Value="15, 10, 15, 0" />
+                <Setter Property="RowHeight" Value="175" />
+                <Setter Property="SelectedItem" Value="null" />
+                <Setter Property="SelectionMode" Value="None" />
+            </Style>
+
+            <!-- Estilo para el Frame dentro del ListView -->
+            <Style x:Key="CibergraphyItemFrameStyle" TargetType="Frame">
+                <Setter Property="Margin" Value="10, 0, 10, 0" />
+                <Setter Property="BackgroundColor" Value="#26B5A1" />
+                <Setter Property="CornerRadius" Value="5" />
+                <Setter Property="Padding" Value="2" />
+            </Style>
+
+            <!-- Estilo para la etiqueta dentro del Frame del ListView -->
+            <Style x:Key="CibergraphyItemLabelStyle" TargetType="Label">
+                <Setter Property="FontAttributes" Value="Bold" />
+                <Setter Property="TextColor" Value="White" />
+                <Setter Property="HorizontalOptions" Value="CenterAndExpand" />
+                <Setter Property="VerticalOptions" Value="CenterAndExpand" />
+            </Style>
+
+            <!-- Estilo común para las etiquetas adicionales dentro del ListView -->
+            <Style x:Key="CibergraphyAdditionalLabelStyle" TargetType="Label">
+                <Setter Property="Margin" Value="10, 0, 0, 5" />
+                <Setter Property="TextColor" Value="White" />
+                <Setter Property="FontAttributes" Value="Bold" />
+            </Style>            
+            <!-- *************************************************** Fin Estilos para PageDetallesCibergrafia ********************************* -->
+
+            <!-- *************************************************** Inicio Estilos para PageDetallesEvaluacion ********************************* -->
+            <!-- Estilo para el encabezado "Evaluación" -->
+            <Style x:Key="HeaderLabelStyleDe" TargetType="Label">
+                <Setter Property="Text" Value="Evaluación" />
+                <Setter Property="FontSize" Value="45" />
+                <Setter Property="TextColor" Value="White" />
+                <Setter Property="HorizontalOptions" Value="Center" />
+                <Setter Property="VerticalOptions" Value="Center" />
+                <Setter Property="FontAttributes" Value="Bold" />
+            </Style>
+
+            <!-- Estilo para la cuadrícula de la lista -->
+            <Style x:Key="ListGridStyleDe" TargetType="Grid">
+                <Setter Property="Margin" Value="35, 40, 10, 5" />
+            </Style>
+
+            <!-- Estilo para las etiquetas de la cuadrícula -->
+            <Style x:Key="GridColumnLabelStyleDe" TargetType="Label">
+                <Setter Property="FontAttributes" Value="Bold" />
+                <Setter Property="FontSize" Value="18" />
+                <Setter Property="TextColor" Value="White" />
+                <Setter Property="HorizontalOptions" Value="Center" />
+            </Style>
+
+            <!-- Estilo para la lista -->
+            <Style x:Key="ListViewStyleDe" TargetType="ListView">
+                <Setter Property="Margin" Value="25, 90, 10, 0" />
+                <Setter Property="RowHeight" Value="80" />
+                <Setter Property="SelectedItem" Value="null" />
+                <Setter Property="SelectionMode" Value="None" />
+            </Style>
+
+            <!-- Estilo para las etiquetas de la lista -->
+            <Style x:Key="ListLabelStyleDe" TargetType="Label">
+                <Setter Property="TextColor" Value="White" />
+                <Setter Property="FontSize" Value="18" />
+                <Setter Property="HorizontalOptions" Value="Center" />
+                <Setter Property="VerticalOptions" Value="Center" />
+            </Style>
+
+            <!-- *************************************************** Fin Estilos para PageDetallesEvaluacion ********************************* -->
+
+            <!-- *************************************************** Inicio Estilos para PageDetallesCalificacion ********************************* -->
+            <!-- Estilos para la página de Encuesta de Aprendizaje -->
+            
+
+            <Style x:Key="EncuestaAprendizajeHeaderLabelStyle" TargetType="Label">
+                <Setter Property="Margin" Value="0, 0, 0, 0" />
+                <Setter Property="FontSize" Value="30" />
+                <Setter Property="TextColor" Value="White" />
+                <Setter Property="HorizontalOptions" Value="Center" />
+                <Setter Property="VerticalOptions" Value="Center" />
+                <Setter Property="FontAttributes" Value="Bold" />
+            </Style>
+
+            <Style x:Key="PreguntaLabelStyle" TargetType="Label">
+                <Setter Property="Margin" Value="0, 30, 0, 30" />
+                <Setter Property="FontSize" Value="20" />
+                <Setter Property="TextColor" Value="White" />
+                <Setter Property="HorizontalOptions" Value="Center" />
+                <Setter Property="VerticalOptions" Value="Center" />
+            </Style>
+
+            <Style x:Key="ComentarioLabelStyle" TargetType="Label">
+                <Setter Property="Margin" Value="0, 50, 0, 0" />
+                <Setter Property="FontSize" Value="20" />
+                <Setter Property="TextColor" Value="White" />
+                <Setter Property="HorizontalOptions" Value="Center" />
+                <Setter Property="VerticalOptions" Value="Center" />
+            </Style>
+
+            <Style x:Key="ComentarioFrameStyle" TargetType="Frame">
+                <Setter Property="BackgroundColor" Value="#26B5A1" />
+                <Setter Property="Margin" Value="0, 15, 0, 10" />
+                <Setter Property="CornerRadius" Value="15" />
+                <Setter Property="WidthRequest" Value="350" />
+                <Setter Property="HeightRequest" Value="200" />
+                <Setter Property="HorizontalOptions" Value="Center" />
+                <Setter Property="VerticalOptions" Value="Center" />
+            </Style>
+
+            <Style x:Key="EditorComentarioStyle" TargetType="Editor">
+                <Setter Property="Placeholder" Value="Escribe tu comentario aquí" />
+                <Setter Property="TextColor" Value="White" />
+                <Setter Property="FontSize" Value="20" />
+                <Setter Property="HorizontalOptions" Value="Center" />
+                <Setter Property="VerticalOptions" Value="Center" />
+                <Setter Property="AutoSize" Value="TextChanges" />
+            </Style>
+
+            <Style x:Key="GuardarButtonStyle" TargetType="Button">
+                <Setter Property="Margin" Value="110, 20, 110, 80" />
+                <Setter Property="Text" Value="Guardar" />
+                <Setter Property="BackgroundColor" Value="#26B5A1" />
+                <Setter Property="TextColor" Value="White" />
+                <Setter Property="CornerRadius" Value="20" />
+                <Setter Property="FontAttributes" Value="Bold" />
+                <Setter Property="WidthRequest" Value="30" />
+                <Setter Property="HeightRequest" Value="55" />
+                <Setter Property="FontSize" Value="20" />
+                <Setter Property="TextTransform" Value="None" />
+            </Style>
+            <!-- *************************************************** Fin Estilos para PageDetallesCalificacion ********************************* -->
+
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

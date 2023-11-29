@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "wxsaAnTyPGPL4OpR3kP9hQQ+SAfF90ttot6K4/zPFt4hmvXhp1woR9M4jNjR3su9nEPlI9IHxrEvHl+ccC7NuA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\StivenOrrego\\OneDrive\\Escritorio\\AppF7\\AppFContaduria\\AppFContaduria\\AppFContaduria\\AppFContaduria.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\StivenOrrego\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\StivenOrrego\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\StivenOrrego\\.nuget\\packages\\syncfusion.licensing\\20.3.0.56\\syncfusion.licensing.20.3.0.56.nupkg.sha512",
+    "C:\\Users\\StivenOrrego\\.nuget\\packages\\syncfusion.xamarin.core\\20.3.0.56\\syncfusion.xamarin.core.20.3.0.56.nupkg.sha512",
+    "C:\\Users\\StivenOrrego\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\StivenOrrego\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\StivenOrrego\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,335 @@
+C:\Users\CAMILA\source\repos\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.csproj.AssemblyReference.cache
+C:\Users\CAMILA\source\repos\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CAMILA\source\repos\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\CAMILA\source\repos\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\CAMILA\source\repos\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Cursos\PageListCursos.xaml.g.cs
+C:\Users\CAMILA\source\repos\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Estudiantes\PageListEstudiantes.xaml.g.cs
+C:\Users\CAMILA\source\repos\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\PageInicio.xaml.g.cs
+C:\Users\CAMILA\source\repos\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\PageLogin.xaml.g.cs
+C:\Users\CAMILA\source\repos\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Profesores\PageListProfesores.xaml.g.cs
+C:\Users\CAMILA\source\repos\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.AssemblyInfoInputs.cache
+C:\Users\CAMILA\source\repos\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.AssemblyInfo.cs
+C:\Users\CAMILA\source\repos\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.csproj.CoreCompileInputs.cache
+C:\Users\CAMILA\source\repos\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.dll
+C:\Users\CAMILA\source\repos\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\refint\AppV2.dll
+C:\Users\CAMILA\source\repos\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.pdb
+C:\Users\CAMILA\source\repos\AppFContaduria\AppFContaduria\AppV2\AppV2\bin\Debug\netstandard2.0\AppV2.deps.json
+C:\Users\CAMILA\source\repos\AppFContaduria\AppFContaduria\AppV2\AppV2\bin\Debug\netstandard2.0\AppV2.dll
+C:\Users\CAMILA\source\repos\AppFContaduria\AppFContaduria\AppV2\AppV2\bin\Debug\netstandard2.0\AppV2.pdb
+C:\Users\CAMILA\source\repos\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\CAMILA\source\repos\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\ref\AppV2.dll
+C:\Users\CAMILA\source\repos\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Cursos\PopTaskCursoView.xaml.g.cs
+C:\Users\CAMILA\source\repos\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Clase\PageListClase.xaml.g.cs
+C:\Users\CAMILA\source\repos\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Clase\PopTaskClaseView.xaml.g.cs
+C:\Users\CAMILA\source\repos\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Estudiantes\PopTaskEstudianteView.xaml.g.cs
+C:\Users\CAMILA\source\repos\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\InformacionTemas\PageInformacionTemas.xaml.g.cs
+C:\Users\CAMILA\source\repos\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\PageInicioEstudiante.xaml.g.cs
+C:\Users\CAMILA\source\repos\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\PageInicioProfesor.xaml.g.cs
+C:\Users\CAMILA\source\repos\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Profesores\PopTaskProfesorView.xaml.g.cs
+C:\Users\CAMILA\source\repos\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Perfil\PagePerfilUsuario.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF6\AppFContaduria\AppV2\AppV2\bin\Debug\netstandard2.0\AppV2.deps.json
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF6\AppFContaduria\AppV2\AppV2\bin\Debug\netstandard2.0\AppV2.dll
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF6\AppFContaduria\AppV2\AppV2\bin\Debug\netstandard2.0\AppV2.pdb
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF6\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.csproj.AssemblyReference.cache
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF6\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF6\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF6\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF6\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Clase\PageListClase.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF6\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Clase\PopTaskClaseView.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF6\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Cursos\PageListCursos.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF6\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Cursos\PopTaskCursoView.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF6\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Estudiantes\PageListEstudiantes.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF6\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Estudiantes\PopTaskEstudianteView.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF6\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\InformacionTemas\PageInformacionTemas.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF6\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\PageInicio.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF6\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\PageInicioEstudiante.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF6\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\PageInicioProfesor.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF6\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\PageLogin.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF6\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Perfil\PagePerfilUsuario.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF6\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Profesores\PageListProfesores.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF6\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Profesores\PopTaskProfesorView.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF6\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.AssemblyInfoInputs.cache
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF6\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.AssemblyInfo.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF6\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.csproj.CoreCompileInputs.cache
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF6\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF6\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.dll
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF6\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\refint\AppV2.dll
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF6\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.pdb
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF6\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\ref\AppV2.dll
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF7\AppFContaduria\AppV2\AppV2\bin\Debug\netstandard2.0\AppV2.deps.json
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF7\AppFContaduria\AppV2\AppV2\bin\Debug\netstandard2.0\AppV2.dll
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF7\AppFContaduria\AppV2\AppV2\bin\Debug\netstandard2.0\AppV2.pdb
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF7\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.csproj.AssemblyReference.cache
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF7\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF7\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF7\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF7\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Clase\PageListClase.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF7\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Clase\PopTaskClaseView.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF7\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Cursos\PageListCursos.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF7\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Cursos\PopTaskCursoView.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF7\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Estudiantes\PageListEstudiantes.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF7\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Estudiantes\PopTaskEstudianteView.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF7\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\InformacionTemas\PageInformacionTemas.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF7\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\PageInicio.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF7\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\PageInicioEstudiante.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF7\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\PageInicioProfesor.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF7\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\PageLogin.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF7\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Perfil\PagePerfilUsuario.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF7\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Profesores\PageListProfesores.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF7\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Profesores\PopTaskProfesorView.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF7\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.AssemblyInfoInputs.cache
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF7\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.AssemblyInfo.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF7\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.csproj.CoreCompileInputs.cache
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF7\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF7\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.dll
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF7\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\refint\AppV2.dll
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF7\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.pdb
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF7\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\ref\AppV2.dll
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF9\AppFContaduria\AppV2\AppV2\bin\Debug\netstandard2.0\AppV2.deps.json
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF9\AppFContaduria\AppV2\AppV2\bin\Debug\netstandard2.0\AppV2.dll
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF9\AppFContaduria\AppV2\AppV2\bin\Debug\netstandard2.0\AppV2.pdb
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF9\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.csproj.AssemblyReference.cache
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF9\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF9\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF9\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF9\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Clase\PageListClase.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF9\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Clase\PopTaskClaseView.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF9\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Cursos\PageListCursos.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF9\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Cursos\PopTaskCursoView.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF9\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Estudiantes\PageListEstudiantes.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF9\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Estudiantes\PopTaskEstudianteView.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF9\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\InformacionTemas\PageInformacionTemas.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF9\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\PageInicio.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF9\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\PageInicioEstudiante.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF9\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\PageInicioProfesor.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF9\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\PageLogin.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF9\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Perfil\PagePerfilUsuario.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF9\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Profesores\PageListProfesores.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF9\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Profesores\PopTaskProfesorView.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF9\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.AssemblyInfoInputs.cache
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF9\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.AssemblyInfo.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF9\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.csproj.CoreCompileInputs.cache
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF9\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF9\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.dll
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF9\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\refint\AppV2.dll
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF9\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.pdb
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF9\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\ref\AppV2.dll
+C:\Users\Camila\source\repos\contaduria\AppFContaduria\AppV2\AppV2\bin\Debug\netstandard2.0\AppV2.deps.json
+C:\Users\Camila\source\repos\contaduria\AppFContaduria\AppV2\AppV2\bin\Debug\netstandard2.0\AppV2.dll
+C:\Users\Camila\source\repos\contaduria\AppFContaduria\AppV2\AppV2\bin\Debug\netstandard2.0\AppV2.pdb
+C:\Users\Camila\source\repos\contaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.csproj.AssemblyReference.cache
+C:\Users\Camila\source\repos\contaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camila\source\repos\contaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Camila\source\repos\contaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Camila\source\repos\contaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Clase\PageListClase.xaml.g.cs
+C:\Users\Camila\source\repos\contaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Clase\PopTaskClaseView.xaml.g.cs
+C:\Users\Camila\source\repos\contaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Cursos\PageListCursos.xaml.g.cs
+C:\Users\Camila\source\repos\contaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Cursos\PopTaskCursoView.xaml.g.cs
+C:\Users\Camila\source\repos\contaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Estudiantes\PageListEstudiantes.xaml.g.cs
+C:\Users\Camila\source\repos\contaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Estudiantes\PopTaskEstudianteView.xaml.g.cs
+C:\Users\Camila\source\repos\contaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Graficas\PageGraficas.xaml.g.cs
+C:\Users\Camila\source\repos\contaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\InformacionTemas\PageInformacionTemas.xaml.g.cs
+C:\Users\Camila\source\repos\contaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\PageInicio.xaml.g.cs
+C:\Users\Camila\source\repos\contaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\PageInicioEstudiante.xaml.g.cs
+C:\Users\Camila\source\repos\contaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\PageInicioProfesor.xaml.g.cs
+C:\Users\Camila\source\repos\contaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\PageLogin.xaml.g.cs
+C:\Users\Camila\source\repos\contaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Profesores\PageListProfesores.xaml.g.cs
+C:\Users\Camila\source\repos\contaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Profesores\PopTaskProfesorView.xaml.g.cs
+C:\Users\Camila\source\repos\contaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.AssemblyInfoInputs.cache
+C:\Users\Camila\source\repos\contaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.AssemblyInfo.cs
+C:\Users\Camila\source\repos\contaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.csproj.CoreCompileInputs.cache
+C:\Users\Camila\source\repos\contaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Camila\source\repos\contaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.dll
+C:\Users\Camila\source\repos\contaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\refint\AppV2.dll
+C:\Users\Camila\source\repos\contaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.pdb
+C:\Users\Camila\source\repos\contaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\ref\AppV2.dll
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF12\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.csproj.AssemblyReference.cache
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF12\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF12\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF12\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF12\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Clase\PageListClase.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF12\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Clase\PopTaskClaseView.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF12\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Cursos\PageListCursos.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF12\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Cursos\PopTaskCursoView.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF12\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Estudiantes\PageListEstudiantes.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF12\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Estudiantes\PopTaskEstudianteView.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF12\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Graficas\PageGraficas.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF12\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\InformacionTemas\PageInformacionTemas.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF12\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\PageInicio.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF12\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\PageInicioEstudiante.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF12\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\PageInicioProfesor.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF12\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\PageLogin.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF12\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Profesores\PageListProfesores.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF12\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Profesores\PopTaskProfesorView.xaml.g.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF12\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.AssemblyInfoInputs.cache
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF12\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.AssemblyInfo.cs
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF12\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.csproj.CoreCompileInputs.cache
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF12\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.dll
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF12\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\refint\AppV2.dll
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF12\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.pdb
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF12\AppFContaduria\AppV2\AppV2\bin\Debug\netstandard2.0\AppV2.deps.json
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF12\AppFContaduria\AppV2\AppV2\bin\Debug\netstandard2.0\AppV2.dll
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF12\AppFContaduria\AppV2\AppV2\bin\Debug\netstandard2.0\AppV2.pdb
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF12\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF12\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\ref\AppV2.dll
+C:\Users\StivenOrrego\OneDrive\Escritorio\AppF12\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\CalificarClaseEstudiante\CalificarClaseE.xaml.g.cs
+C:\Pasantia\AppFContaduria\AppV2\AppV2\bin\Debug\netstandard2.0\AppV2.deps.json
+C:\Pasantia\AppFContaduria\AppV2\AppV2\bin\Debug\netstandard2.0\AppV2.dll
+C:\Pasantia\AppFContaduria\AppV2\AppV2\bin\Debug\netstandard2.0\AppV2.pdb
+C:\Pasantia\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.csproj.AssemblyReference.cache
+C:\Pasantia\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pasantia\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Pasantia\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Pasantia\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\CalificarClaseEstudiante\CalificarClaseE.xaml.g.cs
+C:\Pasantia\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Clase\PageDetalleClase.xaml.g.cs
+C:\Pasantia\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Clase\PageListClase.xaml.g.cs
+C:\Pasantia\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Clase\PopTaskClaseView.xaml.g.cs
+C:\Pasantia\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Cursos\PageListCursos.xaml.g.cs
+C:\Pasantia\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Cursos\PopTaskCursoView.xaml.g.cs
+C:\Pasantia\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Estudiantes\PageListEstudiantes.xaml.g.cs
+C:\Pasantia\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Estudiantes\PopTaskEstudianteView.xaml.g.cs
+C:\Pasantia\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Graficas\PageGraficas.xaml.g.cs
+C:\Pasantia\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\InformacionTemas\PageInformacionTemas.xaml.g.cs
+C:\Pasantia\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\PageInicio.xaml.g.cs
+C:\Pasantia\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\PageInicioEstudiante.xaml.g.cs
+C:\Pasantia\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\PageInicioProfesor.xaml.g.cs
+C:\Pasantia\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\PageLogin.xaml.g.cs
+C:\Pasantia\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Profesores\PageListProfesores.xaml.g.cs
+C:\Pasantia\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Profesores\PopTaskProfesorView.xaml.g.cs
+C:\Pasantia\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.AssemblyInfoInputs.cache
+C:\Pasantia\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.AssemblyInfo.cs
+C:\Pasantia\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.csproj.CoreCompileInputs.cache
+C:\Pasantia\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Pasantia\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.dll
+C:\Pasantia\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\refint\AppV2.dll
+C:\Pasantia\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.pdb
+C:\Pasantia\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\ref\AppV2.dll
+C:\movil\AppFContaduria\AppFContaduria\AppV2\AppV2\bin\Debug\netstandard2.0\AppV2.deps.json
+C:\movil\AppFContaduria\AppFContaduria\AppV2\AppV2\bin\Debug\netstandard2.0\AppV2.dll
+C:\movil\AppFContaduria\AppFContaduria\AppV2\AppV2\bin\Debug\netstandard2.0\AppV2.pdb
+C:\movil\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.csproj.AssemblyReference.cache
+C:\movil\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\movil\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\movil\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\movil\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\CalificarClaseEstudiante\CalificarClaseE.xaml.g.cs
+C:\movil\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Estudiantes\PageListEstudiantes.xaml.g.cs
+C:\movil\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Estudiantes\PopTaskEstudianteView.xaml.g.cs
+C:\movil\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Materia\Bibliografía\PageGraficas.xaml.g.cs
+C:\movil\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Materia\Cibergrafía\PageListProfesores.xaml.g.cs
+C:\movil\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Materia\Cibergrafía\PopTaskProfesorView.xaml.g.cs
+C:\movil\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Materia\PageDetallesMateria.xaml.g.cs
+C:\movil\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Materia\PageListMaterias.xaml.g.cs
+C:\movil\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Materia\Tematica\PageDetallesTematica.xaml.g.cs
+C:\movil\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Materia\Tematica\PageListTematicas.xaml.g.cs
+C:\movil\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Menu\PageListCursos.xaml.g.cs
+C:\movil\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Menu\PopTaskCursoView.xaml.g.cs
+C:\movil\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\PageInicio.xaml.g.cs
+C:\movil\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\PageInicioEstudiante.xaml.g.cs
+C:\movil\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\PageLogin.xaml.g.cs
+C:\movil\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.AssemblyInfoInputs.cache
+C:\movil\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.AssemblyInfo.cs
+C:\movil\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.csproj.CoreCompileInputs.cache
+C:\movil\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\movil\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.dll
+C:\movil\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\refint\AppV2.dll
+C:\movil\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.pdb
+C:\movil\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\ref\AppV2.dll
+D:\FUP 2023\Semestre2\SeminarioEmpresarial\AppFContaduria\AppFContaduria\AppV2\AppV2\bin\Debug\netstandard2.0\AppV2.deps.json
+D:\FUP 2023\Semestre2\SeminarioEmpresarial\AppFContaduria\AppFContaduria\AppV2\AppV2\bin\Debug\netstandard2.0\AppV2.dll
+D:\FUP 2023\Semestre2\SeminarioEmpresarial\AppFContaduria\AppFContaduria\AppV2\AppV2\bin\Debug\netstandard2.0\AppV2.pdb
+D:\FUP 2023\Semestre2\SeminarioEmpresarial\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.csproj.AssemblyReference.cache
+D:\FUP 2023\Semestre2\SeminarioEmpresarial\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.GeneratedMSBuildEditorConfig.editorconfig
+D:\FUP 2023\Semestre2\SeminarioEmpresarial\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\FUP 2023\Semestre2\SeminarioEmpresarial\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\FUP 2023\Semestre2\SeminarioEmpresarial\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\CalificarClaseEstudiante\CalificarClaseE.xaml.g.cs
+D:\FUP 2023\Semestre2\SeminarioEmpresarial\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Estudiantes\PageListEstudiantes.xaml.g.cs
+D:\FUP 2023\Semestre2\SeminarioEmpresarial\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Estudiantes\PopTaskEstudianteView.xaml.g.cs
+D:\FUP 2023\Semestre2\SeminarioEmpresarial\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Materia\Bibliografía\PageDetallesCibergrafia.xaml.g.cs
+D:\FUP 2023\Semestre2\SeminarioEmpresarial\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Materia\Bibliografía\PageGraficas.xaml.g.cs
+D:\FUP 2023\Semestre2\SeminarioEmpresarial\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Materia\Calificación\PageDetallesCalificacion.xaml.g.cs
+D:\FUP 2023\Semestre2\SeminarioEmpresarial\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Materia\Cibergrafía\PageDetallesCibergrafia.xaml.g.cs
+D:\FUP 2023\Semestre2\SeminarioEmpresarial\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Materia\Cibergrafía\PageListProfesores.xaml.g.cs
+D:\FUP 2023\Semestre2\SeminarioEmpresarial\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Materia\Cibergrafía\PopTaskProfesorView.xaml.g.cs
+D:\FUP 2023\Semestre2\SeminarioEmpresarial\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Materia\ContenidoProgramatico\PageDetallesContenidoProgramatico.xaml.g.cs
+D:\FUP 2023\Semestre2\SeminarioEmpresarial\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Materia\ContenidoProgramatico\PageListContenidoProgramatico.xaml.g.cs
+D:\FUP 2023\Semestre2\SeminarioEmpresarial\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Materia\Evaluación\PageDetallesEvaluacion.xaml.g.cs
+D:\FUP 2023\Semestre2\SeminarioEmpresarial\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Materia\PageDetallesMateria.xaml.g.cs
+D:\FUP 2023\Semestre2\SeminarioEmpresarial\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Materia\PageListMaterias.xaml.g.cs
+D:\FUP 2023\Semestre2\SeminarioEmpresarial\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Menu\PageListCursos.xaml.g.cs
+D:\FUP 2023\Semestre2\SeminarioEmpresarial\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Menu\PopTaskCursoView.xaml.g.cs
+D:\FUP 2023\Semestre2\SeminarioEmpresarial\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\PageInicioEstudiante.xaml.g.cs
+D:\FUP 2023\Semestre2\SeminarioEmpresarial\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\PageLogin.xaml.g.cs
+D:\FUP 2023\Semestre2\SeminarioEmpresarial\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.AssemblyInfoInputs.cache
+D:\FUP 2023\Semestre2\SeminarioEmpresarial\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.AssemblyInfo.cs
+D:\FUP 2023\Semestre2\SeminarioEmpresarial\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.csproj.CoreCompileInputs.cache
+D:\FUP 2023\Semestre2\SeminarioEmpresarial\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\XamlC.stamp
+D:\FUP 2023\Semestre2\SeminarioEmpresarial\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.dll
+D:\FUP 2023\Semestre2\SeminarioEmpresarial\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\refint\AppV2.dll
+D:\FUP 2023\Semestre2\SeminarioEmpresarial\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.pdb
+D:\FUP 2023\Semestre2\SeminarioEmpresarial\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\ref\AppV2.dll
+C:\Semillero\movil\AppFContaduria\AppFContaduria\AppV2\AppV2\bin\Debug\netstandard2.0\AppV2.deps.json
+C:\Semillero\movil\AppFContaduria\AppFContaduria\AppV2\AppV2\bin\Debug\netstandard2.0\AppV2.dll
+C:\Semillero\movil\AppFContaduria\AppFContaduria\AppV2\AppV2\bin\Debug\netstandard2.0\AppV2.pdb
+C:\Semillero\movil\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.csproj.AssemblyReference.cache
+C:\Semillero\movil\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Semillero\movil\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Semillero\movil\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Semillero\movil\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\CalificarClaseEstudiante\CalificarClaseE.xaml.g.cs
+C:\Semillero\movil\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Estudiantes\PageListEstudiantes.xaml.g.cs
+C:\Semillero\movil\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Estudiantes\PopTaskEstudianteView.xaml.g.cs
+C:\Semillero\movil\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Materia\Bibliografía\PageDetallesCibergrafia.xaml.g.cs
+C:\Semillero\movil\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Materia\Bibliografía\PageGraficas.xaml.g.cs
+C:\Semillero\movil\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Materia\Calificación\PageDetallesCalificacion.xaml.g.cs
+C:\Semillero\movil\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Materia\Cibergrafía\PageDetallesCibergrafia.xaml.g.cs
+C:\Semillero\movil\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Materia\Cibergrafía\PageListProfesores.xaml.g.cs
+C:\Semillero\movil\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Materia\Cibergrafía\PopTaskProfesorView.xaml.g.cs
+C:\Semillero\movil\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Materia\ContenidoProgramatico\PageDetallesContenidoProgramatico.xaml.g.cs
+C:\Semillero\movil\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Materia\ContenidoProgramatico\PageListContenidoProgramatico.xaml.g.cs
+C:\Semillero\movil\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Materia\Evaluación\PageDetallesEvaluacion.xaml.g.cs
+C:\Semillero\movil\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Materia\PageDetallesMateria.xaml.g.cs
+C:\Semillero\movil\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Materia\PageListMaterias.xaml.g.cs
+C:\Semillero\movil\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Menu\PageListCursos.xaml.g.cs
+C:\Semillero\movil\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Menu\PopTaskCursoView.xaml.g.cs
+C:\Semillero\movil\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\PageInicioEstudiante.xaml.g.cs
+C:\Semillero\movil\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\PageLogin.xaml.g.cs
+C:\Semillero\movil\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.AssemblyInfoInputs.cache
+C:\Semillero\movil\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.AssemblyInfo.cs
+C:\Semillero\movil\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.csproj.CoreCompileInputs.cache
+C:\Semillero\movil\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Semillero\movil\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.dll
+C:\Semillero\movil\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\refint\AppV2.dll
+C:\Semillero\movil\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.pdb
+C:\Semillero\movil\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\ref\AppV2.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ROBERTH-SENA\AppFContaduria\AppFContaduria\AppV2\AppV2\bin\Debug\netstandard2.0\AppV2.deps.json
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ROBERTH-SENA\AppFContaduria\AppFContaduria\AppV2\AppV2\bin\Debug\netstandard2.0\AppV2.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ROBERTH-SENA\AppFContaduria\AppFContaduria\AppV2\AppV2\bin\Debug\netstandard2.0\AppV2.pdb
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ROBERTH-SENA\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.csproj.AssemblyReference.cache
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ROBERTH-SENA\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ROBERTH-SENA\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ROBERTH-SENA\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ROBERTH-SENA\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\CalificarClaseEstudiante\CalificarClaseE.xaml.g.cs
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ROBERTH-SENA\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Estudiantes\PageListEstudiantes.xaml.g.cs
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ROBERTH-SENA\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Estudiantes\PopTaskEstudianteView.xaml.g.cs
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ROBERTH-SENA\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Materia\Bibliografía\PageDetallesBibliografia.xaml.g.cs
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ROBERTH-SENA\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Materia\Bibliografía\PageGraficas.xaml.g.cs
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ROBERTH-SENA\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Materia\Calificación\PageDetallesCalificacion.xaml.g.cs
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ROBERTH-SENA\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Materia\Cibergrafía\PageDetallesCibergrafia.xaml.g.cs
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ROBERTH-SENA\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Materia\Cibergrafía\PageListProfesores.xaml.g.cs
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ROBERTH-SENA\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Materia\Cibergrafía\PopTaskProfesorView.xaml.g.cs
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ROBERTH-SENA\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Materia\ContenidoProgramatico\PageDetallesContenidoProgramatico.xaml.g.cs
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ROBERTH-SENA\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Materia\ContenidoProgramatico\PageListContenidoProgramatico.xaml.g.cs
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ROBERTH-SENA\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Materia\Evaluación\PageDetallesEvaluacion.xaml.g.cs
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ROBERTH-SENA\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Materia\PageDetallesMateria.xaml.g.cs
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ROBERTH-SENA\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Materia\PageListMaterias.xaml.g.cs
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ROBERTH-SENA\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Menu\PageListCursos.xaml.g.cs
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ROBERTH-SENA\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\Menu\PopTaskCursoView.xaml.g.cs
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ROBERTH-SENA\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\PageInicioEstudiante.xaml.g.cs
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ROBERTH-SENA\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\Views\PageLogin.xaml.g.cs
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ROBERTH-SENA\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.AssemblyInfoInputs.cache
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ROBERTH-SENA\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.AssemblyInfo.cs
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ROBERTH-SENA\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.csproj.CoreCompileInputs.cache
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ROBERTH-SENA\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ROBERTH-SENA\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ROBERTH-SENA\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\refint\AppV2.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ROBERTH-SENA\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\AppV2.pdb
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ROBERTH-SENA\AppFContaduria\AppFContaduria\AppV2\AppV2\obj\Debug\netstandard2.0\ref\AppV2.dll
