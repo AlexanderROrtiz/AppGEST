@@ -1,0 +1,2 @@
+*.apk filter=lfs diff=lfs merge=lfs -text
+AppFContaduria/AppV2/AppV2.Android/obj/Debug/120/android/bin/*.apk filter=lfs diff=lfs merge=lfs -text
