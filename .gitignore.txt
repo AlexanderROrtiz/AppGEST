@@ -1,0 +1,1 @@
+AppFContaduria/AppV2/AppV2.Android/bin/Debug/*.apk
